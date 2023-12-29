@@ -9,10 +9,26 @@ class Celular():[
   modelo = "S23"
   camaraF = "48MP" 
 
-~~ atributos estaticos
+~~ atributos estaticos ~~
 celular1 = Celular()
+celular2 = Celular()
+celular3 = Celular()
+celular4 = Celular()
+
+~~ muestra los valores de los campos ~~
+  
 print(celular1.marca)
+print(celular1.modelo)
+print(celular1.camaraF)
+
+~~ actualiza los valores de los campos ~~
+
+celular1.marca =  "Motorola"
+celular2.modelo= "G86"
+celular3.camaraF= "52MP"
 
 ~~ Instancia dentro de una Clase (multiples) 
 
+~~ Un objeto es una instancia de una clase ~~
 
+  
