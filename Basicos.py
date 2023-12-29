@@ -1,3 +1,6 @@
+
+~~ relacion de Tres Celulares ~~
+
 celular_1_marca = "Samsung"
 celular_2_marca = "Apple"
 celular_3_marca = "Huawei"
@@ -13,3 +16,6 @@ celular_3_camaraT = "12 MP"
 celular_1_camaraF = "24 MP"
 celular_2_camaraF = "24 MP"
 celular_3_camaraF = "12 MP"
+
+print(celular_1_marca; celular_1_modelo; celular_1_camaraT; celular1_camaraF)
+
